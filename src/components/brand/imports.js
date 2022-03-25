@@ -9,4 +9,4 @@ const brandList = [
     google, slack, atlassian, dropbox,shopify
 ]
 
-export default brandList
+export { brandList}

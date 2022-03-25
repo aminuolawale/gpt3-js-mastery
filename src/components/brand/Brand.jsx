@@ -1,5 +1,5 @@
 import React from 'react'
-import brandList from './imports'
+import {brandList} from './imports'
 import "./brand.css"
 
 
